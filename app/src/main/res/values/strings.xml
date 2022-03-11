@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestFrontEndAndroidDeveloper</string>
+    <string name="title">News Categories</string>
+    <string name="apiKey">3d5731175f984873a29637982c4bcab5</string>
+</resources>
